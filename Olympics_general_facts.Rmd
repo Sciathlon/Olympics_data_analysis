@@ -5,11 +5,6 @@ date: "14 January 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 # General facts about the winter Olympics
 
 The first winter olympics took place in my country, France, in the city of Chamonix, well known in the trail running community for the UTMB race. It was called the first Olympiad retroactively when they decided to separate the Olympics into two sports competitions. It took place in 2024. Let's look at the data:
@@ -17,5 +12,7 @@ The first winter olympics took place in my country, France, in the city of Chamo
 ## Reading and printing the data
 ```{r }
 olympics <- read.csv(file="winter_olympics_year_location.csv", header=TRUE, sep=",")
+olympicsdf <- data.frame(olympics)
+print(olympicsdf)
 
 ```
