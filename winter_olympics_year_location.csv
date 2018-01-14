@@ -1,0 +1,23 @@
+no_olympiad,host_city,host_countryID,host_country,year,no_nations,no_athletes,no_men,no_women,no_sports,no_disciplines
+XXII,Sochi,RUS,Russia,2014,88,2873,1724,1149,7,15
+XXI,Vancouver,CAN,Canada,2010,82,2566,2566,1044,7,15
+XX,Torino,ITA,Italy,2006,80,2508,1548,960,7,15
+XIX,Salt Lake City,USA,United States of America,2002,77,2399,1513,886,7,15
+XVIII,Nagano,JPN,Japan,1998,72,1737,1389,787,7,14
+XVII,Lillehammer,NOR,Norway,1994,67,1737,1215,522,6,12
+XVI,Albertville,FRA,France,1992,64,1801,1313,488,6,12
+XV,Calgary,CAN,Canada,1988,57,1423,1122,301,6,10
+XIV,Sarajevo,YUG,Yugoslavia,1984,49,1272,998,274,6,10
+XIII,Lake Placid,USA,United States of America,1980,37,1072,840,232,6,10
+XII,Innsbruck,GER,Germany,1976,37,1123,892,231,6,10
+XI,Sapporo,JPN,Japan,1972,35,1006,801,205,6,10
+X,Grenoble,FRA,France,1968,37,1158,947,211,6,10
+IX,Innsbruck,GER,Germany,1964,36,1091,892,199,6,10
+VIII,Squaw Valley,USA,United States of America,1960,30,665,521,144,4,8
+VII,Cortina d'Ampezzo,ITA,Italy,1956,32,821,687,134,4,8
+VI,Oslo,NOR,Norway,1952,30,694,585,109,4,8
+V,St. Moritz,SUI,Switzerland,1948,28,669,592,77,4,9
+IV,Garmisch Partenkirchen,GER,Germany,1936,28,646,566,80,4,8
+III,Lake Placid,USA,United States of America,1932,17,252,231,21,4,7
+II,St. Moritz,SUI,Switzerland,1928,25,464,438,26,4,8
+I,Chamonix,FRA,France,1924,16,258,247,11,6,9
